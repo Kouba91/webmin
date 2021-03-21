@@ -1,1 +1,1 @@
-desc_cs=Cron PlĂĄnovaĂ¨ Ăşloh
+desc_cs=Cron Plánovač Úloh
